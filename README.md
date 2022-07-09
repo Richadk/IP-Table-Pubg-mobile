@@ -1,3 +1,5 @@
 # NOTE
 
-This is the progress of my trial, don't misuse it. try and accept at your own risk
+Try and accept at your own risk.
+
+First Upload In Github
